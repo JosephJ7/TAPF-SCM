@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #fffef2;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  padding: 6px 15px;
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+  background-color: #fffef2;
+  width: 100%;
+}
+.navbar-expand .navbar-nav {
+  flex-direction: row;
+  box-align: inline;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-ms,
+.container-sm,
+.container-xl,
+.container-xxl {
+  margin: 0px 0px;
+  padding-left: px;
+  font-size: 20px;
+  font-weight: 600;
+  width: 100%;
+}
+#basic-navbar-nav.navbar-collapse.collapse {
+  align-items: right;
+}
+.navbar-toggler {
+  position: relative;
+  left: 200px;
+}
+.nav-link {
+  text-align: right;
+  position: relative;
+}
+
+@media (max-width: 992px) {
+  .nav-link {
+    left: 200px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .nav-link {
+    left: 0px;
+  }
+}

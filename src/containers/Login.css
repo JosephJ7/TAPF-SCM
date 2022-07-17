@@ -1,0 +1,113 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #fffef2;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+h1 {
+  color: #fff;
+  font-family: Arial;
+  font-weight: normal;
+}
+
+input[type="text"] {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  width: 400px;
+  height: 35px;
+  font-weight: 300;
+  margin: 25px auto;
+  background: white;
+  padding: 20px;
+  font-size: 20px;
+  border: 3px solid rgb(134, 156, 255);
+  transition: all 0.3s ease;
+  border-radius: 25px;
+}
+
+input[type="password"] {
+  display: block;
+  bottom: 20px;
+  width: 400px;
+  height: 35px;
+  background: white;
+  font-family: Arial;
+  font-weight: bold;
+  border: 0px;
+  margin: 25px auto;
+  padding: 20px;
+  font-size: 20px;
+  border: 3px solid rgb(134, 156, 255);
+  transition: all 0.3s ease;
+  border-radius: 25px;
+}
+
+Label {
+  font-family: "Montserrat", sans-serif;
+  width: 250px;
+  height: 35px;
+  margin: 10px 10px;
+  font-size: 22px;
+  padding: 10px 30px;
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+}
+
+#loginbutton {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 160px;
+  height: 45px;
+  margin: 55px auto;
+  background: linear-gradient(45deg, rgb(150, 255, 150), rgb(0, 183, 255));
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+#loginbutton:hover {
+  background: linear-gradient(45deg, rgb(150, 255, 150), rgb(51, 255, 51));
+  color: rgb(37, 37, 37);
+  width: 166px;
+  height: 51px;
+  margin: 51px auto;
+  font-size: 24px;
+  transition: all 0.1s ease-in;
+}
+@media (max-width: 1499px) {
+  .Box {
+    margin: 50px auto;
+  }
+}
+.Box {
+  display: block;
+  width: 520px;
+  height: 470px;
+  margin: 70px auto;
+  background: linear-gradient(45deg, rgb(243, 255, 81), rgb(143, 223, 255));
+  border: 0px;
+  padding: 30px;
+  font-size: 16px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: none;
+}
+.Alert {
+  color: red;
+  font-size: 18px;
+  background: transparent;
+  border-color: transparent;
+  display: inline;
+  padding: 10px 18px;
+  margin: 10px 5px;
+}

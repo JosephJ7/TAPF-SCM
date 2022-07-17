@@ -1,0 +1,267 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #fffef2;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+.Box3 {
+  padding: 10px 20px;
+  max-width: 80%;
+  height: 519px;
+  margin: 50px auto;
+  padding: 10px 10px;
+  background: linear-gradient(315deg, rgb(206, 206, 206), rgb(0, 225, 255));
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.tripbutton1 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 170px;
+  height: 45px;
+  margin: 50px auto;
+  background: rgb(150, 255, 150);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton1:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 174px;
+  height: 49px;
+  margin: 48px auto;
+  background: rgb(92, 255, 92);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton2 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 180px;
+  height: 45px;
+  margin: 50px auto;
+  background: rgb(255, 76, 76);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton2:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 184px;
+  height: 49px;
+  margin: 48px auto;
+  background: rgb(255, 23, 23);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton3 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 180px;
+  height: 45px;
+  margin: 50px auto;
+  background: rgb(80, 141, 255);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton3:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 184px;
+  height: 49px;
+  margin: 48px auto;
+  background: rgb(0, 89, 255);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.tripbutton4 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 170px;
+  height: 45px;
+  margin: 50px auto;
+  font-size: 22px;
+}
+
+.tripbutton5 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 150px;
+  height: 45px;
+  margin: 50px auto;
+  background: rgb(150, 255, 150);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton5:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 154px;
+  height: 49px;
+  margin: 48px auto;
+  background: rgb(92, 255, 92);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.tripbutton6 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 170px;
+  height: 45px;
+  margin: 50px auto;
+  background: rgb(80, 141, 255);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton6:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 174px;
+  height: 49px;
+  margin: 48px auto;
+  background: rgb(0, 89, 255);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.tripbutton7 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 170px;
+  height: 45px;
+  margin: 10px auto;
+  font-size: 22px;
+}
+
+.tripbutton8 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 150px;
+  height: 45px;
+  margin: 10px auto;
+  background: rgb(150, 255, 150);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton8:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 154px;
+  height: 49px;
+  margin: 8px auto;
+  background: rgb(92, 255, 92);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.tripbutton9 {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 170px;
+  height: 45px;
+  margin: 10px auto;
+  background: rgb(80, 141, 255);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.tripbutton9:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 174px;
+  height: 49px;
+  margin: 8px auto;
+  background: rgb(0, 89, 255);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.root-div {
+  margin: 5px;
+}
+.timeline {
+  width: 80%;
+  height: 80px;
+  margin: 0 auto;
+}

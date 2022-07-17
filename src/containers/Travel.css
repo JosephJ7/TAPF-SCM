@@ -1,0 +1,130 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #fffef2;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+.Box2 {
+  padding: 10px 20px;
+  width: 800px;
+  height: 575px;
+  margin: 60px auto;
+  padding: 10px 10px;
+  background: linear-gradient(315deg, rgb(206, 206, 206), rgb(0, 225, 255));
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+
+.Traveldetails {
+  margin: 20px 40px;
+  padding: 10px 20px;
+}
+
+.Details {
+  text-align: inherit;
+  padding: 20px 20px;
+}
+input[type="text1"] {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  width: 300px;
+  height: 35px;
+  font-weight: 300;
+  margin: 25px 10px;
+  background: white;
+  padding: 20px;
+  font-size: 20px;
+  border: 3px solid rgb(134, 156, 255);
+  transition: all 0.3s ease;
+  border-radius: 25px;
+}
+.Plus {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 50px;
+  height: 45px;
+  margin: 27px auto;
+  background: rgb(150, 255, 150);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.Plus:hover {
+  width: 54px;
+  height: 49px;
+  margin: 25px auto;
+  background: rgb(45, 255, 45);
+  font-size: 23px;
+  transition: all 0.1s ease-in;
+  font-weight: 600;
+}
+.Confirm {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 150px;
+  height: 45px;
+  margin: 40px auto;
+  background: rgb(150, 255, 150);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.Confirm:hover {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 154px;
+  height: 49px;
+  margin: 38px auto;
+  background: rgb(45, 255, 45);
+  border: 0px;
+  font-size: 24px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.Alert2 {
+  color: red;
+  font-size: 18px;
+  background: transparent;
+  border-color: transparent;
+  padding: 0px 0px;
+  padding-left: 32px;
+  margin-bottom: 5px;
+}
+.TraveldetailsEx {
+  margin: 0px 40px;
+  padding: 0px 2px;
+}
+.Minus {
+  color: rgb(37, 37, 37);
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  width: 50px;
+  height: 45px;
+  margin: 27px auto;
+  background: rgb(255, 76, 76);
+  border: 0px;
+  font-size: 22px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.Minus:hover {
+  width: 54px;
+  height: 49px;
+  margin: 25px auto;
+  background: rgb(255, 23, 23);
+  font-size: 23px;
+  transition: all 0.1s ease-in;
+  font-weight: 600;
+}

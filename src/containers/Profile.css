@@ -1,0 +1,99 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  color: #fff;
+}
+
+.Box1 {
+  padding: 10px 20px;
+  width: 900px;
+  height: 499px;
+  margin: 60px auto;
+  background: linear-gradient(135deg, rgb(99, 255, 221), rgb(32, 121, 255));
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+.one {
+  margin: 10px auto;
+  padding: 5px 15px;
+  width: 850px;
+  height: 230px;
+  background: rgb(153, 255, 153);
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+.UserphotoCol {
+  width: 200px;
+}
+.Userphoto {
+  margin: 32px 10px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  width: 120px;
+}
+.BoxUser {
+  margin: auto;
+  font-size: 22px;
+  font-weight: 600;
+  padding: 5px;
+}
+.BoxUserDetails {
+  font-size: 16px;
+  margin: auto 20px;
+  list-style-type: none;
+}
+.Userdetails {
+  padding: 2px 0px;
+}
+.BoxUserDetails1 {
+  font-size: 16px;
+  margin: 10px 0px;
+  padding: 23px 0px;
+  list-style-type: none;
+  width: 200px;
+}
+.UserCol2 {
+  width: 315px;
+  position: relative;
+  right: 200px;
+}
+.UserCol3 {
+  width: 315px;
+}
+.two {
+  margin: 19px auto;
+  padding: 15px 15px;
+  width: 850px;
+  height: 210px;
+  background: rgb(252, 255, 101);
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+.BoxVech {
+  margin-left: 10px;
+  font-size: 22px;
+  font-weight: 600;
+}
+.BoxVechDetails {
+  font-size: 16px;
+  margin: 5px 30px;
+  list-style-type: none;
+}
+.VechCol2 {
+  font-size: 16px;
+  margin: auto 30px;
+  list-style-type: none;
+}
+.VechDetails {
+  padding: 2px 0px;
+  font-size: 16px;
+  margin: 5px 30px;
+  list-style-type: none;
+}
